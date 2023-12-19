@@ -1,10 +1,8 @@
 <h1 align="center">Hi visitor, I'm Haruka Yamamoto!</h1>
 <p align="center">
-<a href="https://kasroudra.github.io/" target="_blank">
-   <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
+<a href="https://sveinkay.github.io/" target="_blank">
 </a>
 <br>
-<img src="https://gpvc.arturio.dev/KasRoudra">
 </p>
 <h3 align="center">I am Full-Stack Developer</h3>
 <h2 align="center"><u>Personal Details</u></h2>
